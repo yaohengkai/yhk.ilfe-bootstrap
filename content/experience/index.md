@@ -25,7 +25,7 @@ sections:
           date_start: '2017-09-01'
           date_end: '2024-01-08'
           description: 
-            My [Ph.D thesis](../publication/2023_thesis/) title is **Research on vertical structure and origin of eddies in Kuroshio-Oyashio Extension region**. A paper is published on [*GRL(2023)*](../publication/2023_GRL/).
+            My [Ph.D thesis](../publication/2023_Yao_thesis/) title is **Research on vertical structure and origin of eddies in Kuroshio-Oyashio Extension region**. A paper is published on [*GRL(2023)*](../publication/2023_Yao_GRL/).
 
         - title: Joint Research Visiting Student
           company: Texas A&M University
@@ -103,7 +103,7 @@ sections:
 
             * Underwater Communication
 
-            * Publish papers on [*Atmosphere(2024)*](/publication/2024_atm/) and [*JOL(2024)*](/publication/2024_jol/)
+            * Publish papers on [*Atmosphere(2024)*](/publication/2024_Zhou_ATM/) and [*JOL(2024)*](/publication/2024_Jia_JOL/)
 
 
             Administrative affairs
@@ -124,7 +124,7 @@ sections:
           description: 
             Studying the linear instability of the Kuroshio-Oyashio Extension current circulation supervised by Prof. Jing.
 
-            * Publish a paper on [*GRL(2023)*](/publication/2023_grl/)
+            * Publish a paper on [*GRL(2023)*](../publication/2023_Yao_GRL/)
 
         - title: Visiting Scholar
           company: Texas A&M University
@@ -136,7 +136,7 @@ sections:
           description: 
             Assisting in operating the high-resolution ocean-atmosphere coupled model R-CESM (Regional Community Earth System Model) in the Kuroshio Extension region (KE) supervised by Prof. Chang.
 
-            * Publish a paper on [*BAMS(2021)*](/publication/2021_BAMS/)
+            * Publish a paper on [*BAMS(2021)*](../publication/2021_Fu_BAMS/)
 
         - title: On-Ship Scientist
           company: IOCAS RV KEXUE 
