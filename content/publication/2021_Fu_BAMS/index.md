@@ -55,7 +55,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 2021_Fu_BAMS.pdf
+# url_pdf: 2021_Fu_BAMS.pdf
 url_code: 'https://github.com/ihesp/rcesm1'
 url_dataset: ''
 url_poster: ''
